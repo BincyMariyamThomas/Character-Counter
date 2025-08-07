@@ -4,11 +4,11 @@ body{
     justify-content: center;
     height: 100vh;
     align-items: center;
-    background-color:white;
+    background-color:salmon;
 }
 
 .container{
-    background-color:rgb(138, 201, 225);
+    background-color:lightpink;
     width: 400px;
     padding: 20px;
     margin: 5px;
@@ -43,5 +43,6 @@ body{
 }
 #remaining-counter{
     color: #ef4444;
+
 
 }
